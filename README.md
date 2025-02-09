@@ -1,2 +1,2 @@
 # PCB-1
-voici le premier PCB que j'ai realisé
+Open the files with KiCad or any dedicated program
